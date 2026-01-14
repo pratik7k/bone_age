@@ -7,7 +7,7 @@ Backend ML service for pediatric bone age estimation using CNN + Vision Transfor
 - FastAPI
 - PyTorch
 - Vision Transformer (ViT)
-- Git LFS for model storage
+
 
 ## Run Backend
 ```bash
